@@ -29,7 +29,7 @@ I am currently pursuing two bachelor degrees:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-svensson-sec/)
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangata-meow&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangata-meow&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangata-meow&layout=compact&theme=tokyonight)
 
