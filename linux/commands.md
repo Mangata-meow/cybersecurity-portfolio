@@ -5,9 +5,9 @@ COMING SOON
 
 ## Shell & prompt customization
 ### Bash Prompt (PS1)
-The Bash prompt is the line that appears before each command you type in the terminal.
+The Bash prompt is the line that appears before each command we type in the terminal.
 It is controlled by a variable called `PS1` (Prompt String 1).
-By modifying `PS1`, you can customize what information is displayed in your terminal, such as:
+By modifying `PS1`, we can customize what information is displayed in our terminal, such as:
 - username  
 - hostname  
 - current directory  
