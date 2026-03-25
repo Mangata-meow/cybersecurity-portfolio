@@ -1,5 +1,9 @@
-# Linux philosophy
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> Linux Philosophy
 Linux philosophy centers on simplicity, flexibility, efficiency, and openness.
+
+> *"Do one thing and do it well."*
+
+--- 
 
 ## Core principles
 ### 1. Everything is a file
@@ -45,3 +49,9 @@ This makes it easy to read, modify, and manage.
 **Examples:**
 - `/etc/hosts` → local network configuration  
 - `/etc/passwd` → user account information  
+
+---
+## Security perspective
+- System components are accessible as files,
+- Lots of tools that can be extremely useful for analysis,
+- Proper permissions are critical.
