@@ -28,11 +28,6 @@ I am currently pursuing two bachelor degrees:
 [![Coursera](https://img.shields.io/badge/Coursera-blue?logo=coursera&logoColor=white)](https://www.coursera.org/user/984c4f21f02ba4d82607243c127ea3c0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-svensson-sec/)
 
-## Stats
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mangata-meow&show_icons=true&theme=tokyonight&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mangata-meow&layout=compact&theme=tokyonight)
-
 ## Goals
 - Build a strong foundation in cybersecurity  
 - Develop practical, hands-on skills  
