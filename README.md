@@ -24,7 +24,7 @@ I am currently pursuing two bachelor degrees:
 
 ## Platforms
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mangatameow)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2552287)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-2552287?logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2552287)
 [![Coursera](https://img.shields.io/badge/Coursera-blue?logo=coursera&logoColor=white)](https://www.coursera.org/user/984c4f21f02ba4d82607243c127ea3c0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-svensson-sec/)
 
