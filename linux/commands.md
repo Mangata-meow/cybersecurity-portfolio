@@ -1,5 +1,19 @@
 # Linux Commands
-COMING SOON
+- `ls` → lists the files and directories within the current folder (or any specified directory)
+-  `man` → displays the full manual pages of the tools and provides detailed information about their usage
+```
+Mangatameow@htb[/htb]$ man <tool>
+```
+- `--help` or `-h` → this a shorter version of the manual page, shows only the most common options
+```
+Mangatameow@htb[/htb]$ <tool> --help
+```
+- `apropos` → searches descriptions (in manuals) for instances of a given word (really useful if I forget a full command)
+```
+Mangatameow@htb[/htb]$ apropos <keyword>
+```
+  
+### Useful website: https://explainshell.com → explains commands
 
 ---
 
