@@ -1,10 +1,11 @@
 # Linux Commands
 - `ls` → lists the files and directories within the current folder (or any specified directory)
--  `man` → displays the full manual pages of the tools and provides detailed information about their usage
+- `pwd` → displays the working directory name
+-  `man` → displays the full manual pages of the tools (commands) and provides detailed information about their usage
 ```
 Mangatameow@htb[/htb]$ man <tool>
 ```
-- `--help` or `-h` → this a shorter version of the manual page, shows only the most common options
+- `--help` or `-h` → this is a shorter version of the manual page, shows only the most common options
 ```
 Mangatameow@htb[/htb]$ <tool> --help
 ```
@@ -12,6 +13,22 @@ Mangatameow@htb[/htb]$ <tool> --help
 ```
 Mangatameow@htb[/htb]$ apropos <keyword>
 ```
+-  `whoami` → displays the current username
+- `id` → returns the user's identity (expanded whoami)
+- `hostname` → sets or prints the name of the current host system
+- `uname` → displays basic information about the operating system and system hardware
+- `ifconfig` → assigns or displays an address to a network interface and/or configures network interface parameters
+- `ip` → shows or manipulates routing, network devices, interfaces and tunnels
+- `netstat` → shows network status
+- `ss` → investigates sockets
+- `ps` → shows process status
+- `who` → shows who is logged in
+- `env` → prints environment
+- `lsblk` → lists block devices
+- `lsusb` → lists USB devices
+- `lsof` → lists open files
+- `lspci` → lists PCI devices
+
   
 ### Useful website: https://explainshell.com → explains commands
 
