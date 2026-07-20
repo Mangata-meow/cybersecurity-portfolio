@@ -1,6 +1,6 @@
 # Linux Commands
 - `ls` → lists the files and directories within the current folder (or any specified directory)
-      - `ls -l` → displays more information about the directories and files
+  - `ls -l` → displays more information about the directories and files
 - `pwd` → displays the current directory name
 -  `man` → displays the full manual pages of the tools (commands) and provides detailed information about their usage
 ```
