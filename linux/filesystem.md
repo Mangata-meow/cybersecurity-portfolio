@@ -40,7 +40,7 @@ All of the files and directories originate from a single root directory: `/`.
 **Example:** 
 - `/dev/sda` -> hard disk
 
-### `/etc/ - contains local system configuration files.
+### `/etc/` - contains local system configuration files.
 **Example:** 
 - `/etc/passwd` -> user account information
 - `/etc/hosts` -> local network configuration (DNS)
